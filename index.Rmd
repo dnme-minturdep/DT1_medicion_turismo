@@ -1,0 +1,31 @@
+---
+title: "Documento Técnico N°1: Medición del Turismo"
+subtitle: "Conceptos y Elementos Básicos para la Medición Provincial de los Turistas" 
+author: "Dirección Nacional de Mercados y Estadísticas -  Subsecretaría de Desarrollo Estratégico"
+date: "`r format(Sys.Date(), format = '%d de %B de %Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Conceptos y elementos básicos para la medición provincial de los turistas"
+---
+
+# Presentación {.unnumbered}
+
+El presente documento, **Conceptos y Elementos Básicos para la Medición Provincial de los Turistas**, se enmarca en el proyecto de Armonización de las Estadísticas de Turismo en las Provincias de la [Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes](http://datos.yvera.gob.ar/). El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+
+### Documento Técnico Nº1 - Resumen {.unnumbered}
+
+En el capítulo \@ref(flujo-turistico) se plantea una breve reflexión en torno a aspectos conceptuales y metodológicos generales sobre la medición del turismo y las complejidades que supone construir estimaciones provinciales, trayendo a cuenta para ello lo que dicta la experiencia internacional en la materia.
+
+El capítulo \@ref(encuestas-nacionales) se centra en describir las principales características de las Encuestas Nacionales de Turismo (**ENT**), con sus debilidades y fortalezas, a fin de prestar indicios acerca del posible uso de toda o parte de la información que surge de ellas, para la construcción de información estadística provincial.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+knitr::opts_chunk$set(out.width = '80%', fig.align = 'center')
+```
