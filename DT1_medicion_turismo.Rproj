@@ -13,4 +13,3 @@ RnwWeave: knitr
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: C:/Users/Menta/Desktop/github_d4t4tur/DT1_medicion_turismo

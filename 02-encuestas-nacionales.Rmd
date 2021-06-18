@@ -33,7 +33,8 @@ La muestra abarca a hogares residentes en los "grandes aglomerados urbanos" defi
 [^2]: El Área Metropolitana de Buenos Aires (AMBA), conformada por la Ciudad de Buenos Aires y los Partidos del Gran Buenos Aires, tiene una cobertura del 100%, mientras que en el conjunto del Interior del país la cobertura es de aproximadamente el 44%.
 
 Lógicamente, aquellos visitantes residentes en el exterior del país tampoco son alcanzados por este operativo.
-Debido a que la encuesta se realiza en el lugar de residencia u origen de los visitantes y dada la cobertura geográfica del operativo, el análisis por origen de los visitantes estará limitado a los visitantes que provienen de los grandes aglomerados urbanos del país.En cambio, el análisis de los resultados por destino contemplará a todas las ciudades o localidades del país.
+Debido a que la encuesta se realiza en el lugar de residencia u origen de los visitantes y dada la cobertura geográfica del operativo, el análisis por origen de los visitantes estará limitado a los visitantes que provienen de los grandes aglomerados urbanos del país.
+En cambio, el análisis de los resultados por destino contemplará a todas las ciudades o localidades del país.
 
 La EVyTH indaga por el destino principal del viaje (donde pasó más noches) a nivel de ciudad o localidad.
 Si el viaje incluyó alojamiento con pernocte en otras localidades además de la principal, las mismas no son identificadas, aunque sí es posible conocer la cantidad de otras localidades donde se pernoctó.
@@ -41,14 +42,20 @@ Si el viaje incluyó alojamiento con pernocte en otras localidades además de la
 El diseño muestral de la EVyTH es probabilístico, y se encuadra en un diseño estratificado con selección sistemática al azar dentro de cada uno de los estratos.
 Los estratos están conformados por las regiones turísticas utilizadas habitualmente por el MINTURDEP (con la salvedad de que se consideran dos subregiones en el caso de la Provincia de Buenos Aires: los Partidos del Gran Buenos Aires y el Interior de la Provincia de Buenos Aires).
 
-Los resultados de la EVyTH surgen de la agregación de datos calculados a nivel mensual en muestras independientes.
+Los resultados de la EVyTH se presentan con períodos de referencia trimestrales.
+Los mismos surgen de la agregación de datos calculados a nivel mensual en muestras independientes.
 A nivel nacional, las estimaciones mensuales se realizan sobre una muestra de alrededor de 5.200 hogares, integrados por unas 16 mil personas.
 
-Debido a que la encuesta fue diseñada para obtener resultados a niveles regionales, las estimaciones provinciales deben ser consideradas con cautela: la cantidad de hogares encuestados en los aglomerados de cada provincia varía sustancialmente: lógicamente, a mayor cantidad de muestra, mayor fiabilidad (menor error estadístico) presentarán las estimaciones (véase Figura 2.1).
+Debido a que la encuesta fue diseñada para obtener resultados a niveles regionales, las estimaciones provinciales deben ser consideradas con cautela dado que la cantidad de hogares encuestados en los aglomerados de cada provincia varía sustancialmente.
+Llógicamente, a mayor cantidad de muestra, las estimaciones presentarán mayor fiabilidad (menor error estadístico, véase Figura 2.1).
 
 **Figura 2.1. Cantidad aproximada de casos muestrales (hogares) sobre las que se realizan las estimaciones mensuales y participación de él o los grandes aglomerados urbanos (GAU) considerados por la EVyTH sobre el total de la población de cada provincia.**
 
 ![](https://lh5.googleusercontent.com/DyAnrDcgeOEDJNn5zwo64eZQdOb1uwRxM3d-q4YsCoPQ6w6mWq09s0o3owBCyTP8IvPWeyphobXNa8CfQF6Y-dUnZUn5GkUw4UfPVzDQWQolPF8zVDxnntruFp5GVn-W-MLVCQ)
+
+::: {.note}
+Para más información de la EVyTH podes consultar los informes técnicos de resultados y las series estadísticas en: - Data abierta <http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth> - Informes técnicos <https://www.yvera.tur.ar/estadistica/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth>
+:::
 
 ## EOH {#eoh}
 
@@ -66,7 +73,7 @@ Cabe señalar que, como muestra la Figura 2.2, el peso de las localidades inclui
 ![](https://lh5.googleusercontent.com/Eolm_BYa1dEmoPEifu9WkFqJ3K5vfWlW1V3wi3VUEEIGpjIPF3LV6WUnmdBwoBt0RkrH6ZsZID1OrUiPZHKLJWzGCi2Q3cfoaxxyqqrcdJwHdmZJe-JD298v2RUWCzA7FjD-2w)
 
 Los tipos de establecimientos incluidos en la muestra son, dentro de los hoteleros, los hoteles de 1 a 5 estrellas y los apart-hoteles; y, dentro de los para-hoteleros, los hoteles sindicales, albergues, cabañas, bungalows, hospedajes, bed & breakfast, hosterías, etc.
-Cabe señalar que la EOH excluye de su universo a los establecimientos pequeños (menos de 6 habitaciones o de 13 plazas).
+Cabe señalar que la EOH excluye de su universo a los establecimientos pequeños (menos de 4 habitaciones o de 12 plazas inclusive).
 
 Todos los viajeros que se alojen en estos tipos de establecimientos dentro de las localidades consideradas, serán relevados por la encuesta.
 
@@ -86,7 +93,7 @@ Releva a los viajeros no residentes de Argentina que visitaron el país (al sali
 Cubre el movimiento internacional de cinco puntos de entrada y salida del país: Aeropuerto de Ezeiza, Aeroparque Jorge Newbery, Aeropuerto de Córdoba (Pajas Blancas), Aeropuerto de Mendoza (El Plumerillo), Puerto de Buenos Aires y el paso fronterizo terrestre Sistema Cristo Redentor, que representan aproximadamente la mitad del flujo internacional de viajeros, dejando fuera de análisis los ingresos y egresos por otros puntos de frontera.
 En este sentido, es preciso tener en cuenta que el comportamiento y las características de los viajes de quienes ingresan o egresan por los puntos de acceso cubiertos por la encuesta, es diferente al de los viajeros que lo hacen por otros puntos.
 
-A partir del año 2018 la pregunta de los destinos visitados (itinerario) en Argentina es de tipo abierta y se registra todos ellos lugares donde el turista realiza al menos una pernoctación junto con el tipo de alojamiento utilizado.
+A partir del año 2019 la pregunta de los destinos visitados (itinerario) en Argentina es de tipo abierta y se registra todos aquellos lugares donde el turista realiza al menos una pernoctación junto con el tipo de alojamiento utilizado.
 Hasta el año 2018 la encuesta contemplaba 13 destinos principales (localidad o zona o provincia, según el caso) y una categoría que engloba a todos los destinos regionales no contemplados entre los anteriores.
 Por esta razón, los datos históricos, en la mayoría de los casos, no se encuentran disponibles con apertura provincial.
 
