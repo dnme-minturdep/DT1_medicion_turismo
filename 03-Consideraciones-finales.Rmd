@@ -1,0 +1,8 @@
+# Consideraciones Finales {-}
+
+Este documento de trabajo pretende plantear la importancia de las definiciones conceptuales y de la rigurosidad metodológica (es decir la forma en que esos conceptos se operacionalizan, se hacen medibles) para la producción de información estadística rigurosa.
+
+El turismo constituye un fenómeno harto complejo de mensurar, con lo cual lo antedicho cobra especial relevancia.
+Sólo garantizando un mismo marco conceptual y opciones metodológicas consistentes (lo que implica no necesariamente diseños perfectos, muchas veces inalcanzables, aunque sí un conocimiento pleno de sus limitaciones) será posible alcanzar indicadores básicos de estadística de turismo (nacionales, provinciales e incluso municipales) robustos y comparables.
+
+Lo expuesto revela, entonces, la necesidad y la importancia de lograr una interrelación continua y eficaz entre los diferentes niveles de producción de estadística de turismo.

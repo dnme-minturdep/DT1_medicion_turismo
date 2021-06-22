@@ -4,6 +4,8 @@ fig:nacional
 fig:dificultad
 fig:operativos
 fig:formasturismo
+fig:cantidades
+fig:cobertura
 fig:ent
 fig:coberturaENT
 flujo-turistico
@@ -21,4 +23,3 @@ evyth
 eoh
 eti
 síntesis
-consideraciones-finales
