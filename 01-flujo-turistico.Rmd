@@ -208,11 +208,11 @@ Cómo se analizó en el capítulo anterior, la definición del entorno habitual 
 
 ### Problemas de agregación: visitantes y llegadas de visitantes
 
-En este caso, las complejidades se presentan cuando se procura medir el turismo en unidades geográficas de carácter subnacional (provincias, departamentos/partidos, municipios o localidades en el caso argentino), y se relacionan con la clasificación y contabilización de los visitantes. 
+En este caso, las complejidades se presentan cuando se procura medir el turismo en unidades geográficas de carácter subnacional (provincias, departamentos/partidos, municipios o localidades en el caso argentino), y se relacionan con la clasificación y contabilización de los visitantes.
 
 Cabe señalar que, además de las razones lógicas (es más sencillo contabilizar ingresos o egresos de un país que de una provincia o ciudad, por ejemplo), en alguna medida, este tipo de inconveniente se relaciona con el enfoque internacional de las estadísticas de turismo, donde las prescripciones metodológicas suelen centrarse en las entidades nacionales y donde sólo recientemente ha comenzado a prestarse atención a las estimaciones desde niveles subnacionales.
 
-Sin dudas, cuando se hace referencia a las dificultades de agregación el principal problema está dado por la contabilización de los visitantes que incluyen en sus viajes dos o más paradas o visitas turísticas, que, en la óptica de medición desde el destino, pueden denominarse **llegadas de visitantes**. 
+Sin dudas, cuando se hace referencia a las dificultades de agregación el principal problema está dado por la contabilización de los visitantes que incluyen en sus viajes dos o más paradas o visitas turísticas, que, en la óptica de medición desde el destino, pueden denominarse **llegadas de visitantes**.
 
 Por definición, la cantidad de visitantes a una provincia siempre será igual o menor a la cantidad de llegadas de visitantes a las localidades que la componen. Si todas las ciudades de una provincia sumarán los turistas que las visitaron (y pernoctaron en ellas), el número de llegadas a las localidades provinciales sería mayor al número de turistas (es decir, personas que realizaron viajes fuera de su entorno habitual), salvo en el caso extremo de que todos los visitantes hayan visitado un solo lugar durante su viaje turístico.
 
@@ -282,7 +282,7 @@ En primer lugar, cabe mencionar que pocos son los países que logran obtener rea
 
 A nivel mundial, los países con mayor desarrollo de sus sistemas de estadística de turismo (y de sus sistemas estadísticos en general), son aquellos que logran realizar estimaciones como las planteadas.
 
-Dos casos paradigmáticos son los de España y Canadá, ambos con una amplia y sólida trayectoria en la medición del turismo. 
+Dos casos paradigmáticos son los de España y Canadá, ambos con una amplia y sólida trayectoria en la medición del turismo.
 
 | **España** cuenta con una encuesta de turismo nacional, relevada en hogares (Encuesta de turismo de residentes -ETR/FAMILITUR-) que permite conocer el origen y destino de todos los viajes turísticos que realizan los residentes de ese país. Esta encuesta cuenta con representatividad a nivel de comunidad autónoma (el equivalente a las provincias en Argentina) e incluye en su cobertura a toda la población, independientemente del contexto (rural, urbano) en que resida.
 
@@ -298,17 +298,36 @@ Una limitación de los operativos españoles es que relevan, tanto ETR/FAMILITUR
 
 Finalmente, en los apartados metodológicos de los estudios publicados no se precisa  qué sucede con la consistencia entre información brindada por diferentes fuentes (por ejemplo, la cantidad de residentes que viajan al exterior captados por ETR/FAMILITUR y por FRONTUR/EGATUR, o bien los pernoctes que surgen de las encuestas de ocupación de alojamientos y los pernoctes que surgen de encuestas realizadas a los visitantes).
 
-| En el caso de **Canadá**, también cuenta con una encuesta a hogares que mide el turismo nacional (Canadian Travel Survey -CTS-) y con una encuesta de turismo internacional (International Travel Survey -ITS-). En ambos casos, (y también en el de los relevamientos de ocupación de alojamientos turísticos), se trata de estudios con representatividad provincial. \|
+Links:
 
-| A diferencia del caso español, ambas encuestas indagan no sólo por el destino principal del viaje sino por todos los destinos visitados (ciudad o localidad).
+[ETR/Familitur Encuesta de turismo de residentes](https://www.ine.es/dyngs/INEbase/es/operacion.htmc=Estadistica_C&cid=1254736176990&menu=ultiDatos&idp=1254735576863)
 
-| Debido a esta forma de indagación por el destino, plantea tres unidades principales.
+[FRONTUR](https://www.ine.es/dyngs/INEbase/es/operacion.htmc=Estadistica_C&cid=1254736176996&menu=ultiDatos&idp=1254735576863)
 
-| - Personas-viajes ("persons-trips" o "travels"), que son los visitantes.
-| - Personas-visitas ("persons visits"), que equivalen a llegadas de visitantes (independientemente si pernoctan o no en destino).
-| - Personas visitas de al menos una noche ("visit-nights"), que pueden traducirse como llegadas de turistas.
-| Esta clasificación permite la reconstrucción del flujo turístico por forma de turismo para cada provincia, cuya suma, lógicamente, es superior al total nacional (y lo mismo sucede al considerar la suma de las llegadas a localidades de una provincia respecto al total de llegadas a esa provincia).
+[EGATUR](https://www.ine.es/dyngs/INEbase/es/operacion.htmc=Estadistica_C&cid=1254736177002&menu=ultiDatos&idp=1254735576863)
+
+En el caso de **Canadá**, también cuenta con una encuesta a hogares que mide el turismo nacional (National Travel Survey -NTS-) y con una encuesta de turismo internacional (Visitor Travel Survey -VTS-). En ambos casos, (y también en el de los relevamientos de ocupación de alojamientos turísticos), se trata de estudios con representatividad provincial.
+
+A diferencia del caso español, ambas encuestas indagan no sólo por el destino principal del viaje sino por todos los destinos visitados (ciudad o localidad).
+
+Debido a esta forma de indagación por el destino, plantea tres unidades principales.
+
+\- Personas-viajes ("persons-trips" o "travels"), que son los visitantes.
+
+\- Personas-visitas ("persons visits"), que equivalen a llegadas de visitantes (independientemente si pernoctan o no en destino).
+
+\- Personas visitas de al menos una noche ("visit-nights"), que pueden traducirse como llegadas de turistas.
+
+Esta clasificación permite la reconstrucción del flujo turístico por forma de turismo para cada provincia, cuya suma, lógicamente, es superior al total nacional (y lo mismo sucede al considerar la suma de las llegadas a localidades de una provincia respecto al total de llegadas a esa provincia).
 
 En base a lo expuesto, este modelo puede denominarse "**aguas abajo"**, dado que se realizan estimaciones subnacionales a partir de estudios nacionales, en contraste con un modelo "**aguas arriba"**, donde los flujos turísticos nacionales son reconstruidos a partir de los datos que aportan las entidades subnacionales.
 
 Como se verá en el Capítulo 2, Argentina cuenta hoy con este tipo de operativos nacionales necesarios para dar cuenta del flujo turístico. No obstante, estos estudios no cuentan con representatividad a niveles provinciales.
+
+Links:
+
+[Canadá](https://www150.statcan.gc.ca/n1/en/subjects/travel_and_tourism)
+
+[National Travel Survey (NTS)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5232)
+
+[Visitor Travel Survey (VTS)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5261)
