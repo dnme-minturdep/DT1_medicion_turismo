@@ -69,6 +69,12 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
+  %%% REFERENCIAS
+        \usepackage{hyperref}
+        % links del indice en negro; citas y URL en azul
+        \hypersetup{colorlinks = true, urlcolor={blue}, 
+        citecolor={blue}, linkcolor ={black}}
+\usepackage[spanish]{babel} % Idiomas en los que se escribe el documento. 
 \usepackage{booktabs}
 \usepackage{amsthm}
 \usepackage[final]{pdfpages}
@@ -95,13 +101,13 @@
 \makeatother
 \subtitle{Conceptos y Elementos Básicos para la Medición Provincial de los Turistas}
 \author{Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico}
-\date{24 de junio de 2021}
+\date{25 de junio de 2021}
 
 \begin{document}
 \maketitle
 
 \includepdf[pages={1}, scale=1]{DT1Portada.pdf}
-
+\newpage
 
 \let\maketitle\oldmaketitle
 \maketitle
