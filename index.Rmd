@@ -5,6 +5,7 @@ author: "Dirección Nacional de Mercados y Estadísticas -  Subsecretaría de De
 date: "`r format(Sys.Date(), format = '%d de %B de %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
+classoption: openany
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes

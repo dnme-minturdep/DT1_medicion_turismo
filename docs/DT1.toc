@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Presentaci\IeC {\'o}n}{5}{chapter*.2}
+\contentsline {subsection}{Documento T\IeC {\'e}cnico N\IeC {\textordmasculine }1 - Resumen}{5}{section*.3}
+\contentsline {chapter}{\numberline {1}\textbf {Estimaciones de flujo tur\IeC {\'\i }stico}}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Medici\IeC {\'o}n}{7}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}\IeC {\textquestiondown }Qu\IeC {\'e} es el turismo?}{8}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Entorno habitual}{9}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Formas de turismo}{13}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}\IeC {\'O}ptica provincial}{14}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Problemas de captaci\IeC {\'o}n}{14}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Problemas de agregaci\IeC {\'o}n: visitantes y llegadas de visitantes}{17}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Formas de turismo desde la \IeC {\'o}ptica provincial}{20}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}La experiencia internacional}{20}{subsection.1.2.4}
+\contentsline {chapter}{\numberline {2}\textbf {Encuestas Nacionales}}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}EVyTH}{24}{section.2.1}
+\contentsline {section}{\numberline {2.2}EOH}{25}{section.2.2}
+\contentsline {section}{\numberline {2.3}ETI}{26}{section.2.3}
+\contentsline {section}{\numberline {2.4}S\IeC {\'\i }ntesis}{27}{section.2.4}
+\contentsline {chapter}{Consideraciones Finales}{29}{chapter*.4}
