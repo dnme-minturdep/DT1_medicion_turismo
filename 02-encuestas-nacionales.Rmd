@@ -58,16 +58,16 @@ knitr::include_graphics('imagenes/figura2.1.png')
 ::: {.note}
 Para más información de la EVyTH podes consultar los informes técnicos de resultados y las series estadísticas en:
 
-[Data abierta](http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth)
+[Data abierta](http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth){target="_blank"}
 
-[Informes técnicos](https://www.yvera.tur.ar/estadistica/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth)
+[Informes técnicos](https://www.yvera.tur.ar/estadistica/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth){target="_blank"}
+
+[Encuesta Permanente a Hogares del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-OperacionesEstadisticas){target="_blank"}
 :::
-
-[Encuesta Permanente a Hogares del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-OperacionesEstadisticas)
 
 ## EOH {#eoh}
 
-La **Encuesta de Ocupación Hotelera (EOH)** es un relevamiento realizado en forma continua desde el 2004, bajo la [coordinación del MINTURDEP y el Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-56), que tiene como objetivo medir el impacto del turismo interno e internacional sobre la actividad de los establecimientos hoteleros y para-hoteleros.
+La **Encuesta de Ocupación Hotelera (EOH)** es un relevamiento realizado en forma continua desde el 2004, bajo la coordinación del MINTURDEP y el [Instituto Nacional de Estadísticas y Censos (INDEC)](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-56){target="_blank"}, que tiene como objetivo medir el impacto del turismo interno e internacional sobre la actividad de los establecimientos hoteleros y para-hoteleros.
 Con periodicidad mensual, mide, entre otras variables, la cantidad de pernoctes, de viajeros residentes y no residentes, la estadía promedio por viajero y la tasa de ocupación en plazas y habitaciones.
 Además, permite distinguir la información de acuerdo al origen de los viajeros (provincia o país de residencia).
 
@@ -95,16 +95,16 @@ Asimismo, al analizar viajeros hospedados (o huéspedes), a partir de la informa
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh)
+[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
 
-[Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh)
+[Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh){target="_blank"}
 
-[Doc metodológico (INDEC)](https://www.indec.gob.ar/ftp/cuadros/economia/eoh_aspectos_metodologicos.pdf) 
+[Doc metodológico (INDEC)](https://www.indec.gob.ar/ftp/cuadros/economia/eoh_aspectos_metodologicos.pdf){target="_blank"} 
 :::
 
 ## ETI {#eti}
 
-La **Encuesta de Turismo Internacional (ETI)** es otro operativo realizado en forma continua desde el año 2004, [coordinado conjuntamente por el MINTURDEP y el INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55).
+La **Encuesta de Turismo Internacional (ETI)** es otro operativo realizado en forma continua desde el año 2004, coordinado conjuntamente por el MINTURDEP y el [INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55){target="_blank"}.
 
 Tiene por objetivo general conocer las características de los viajes (el motivo, la duración, el/los destino/s, el/los tipos de alojamientos utilizados, etc.), y de los viajeros (lugar de residencia, conformación del grupo viajero, etc.), así como los gastos en alojamiento, alimentación, traslados, transportes y compras que realizan los viajeros en los lugares visitados.
 
@@ -116,6 +116,18 @@ En este sentido, es preciso tener en cuenta que el comportamiento y las caracter
 A partir del año 2019 la pregunta de los destinos visitados (itinerario) en Argentina es de tipo abierta y se registra todos aquellos lugares donde el turista realiza al menos una pernoctación junto con el tipo de alojamiento utilizado.
 Hasta el año 2018 la encuesta contemplaba 13 destinos principales (localidad o zona o provincia, según el caso) y una categoría que engloba a todos los destinos regionales no contemplados entre los anteriores.
 Por esta razón, los datos históricos, en la mayoría de los casos, no se encuentran disponibles con apertura provincial.
+
+::: {.note}
+Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
+
+Informes de prensa en [Yvera](https://www.yvera.tur.ar/estadistica/info/turismo-internacional){target="_blank"}
+
+[Doc metodológico](https://www.yvera.tur.ar/estadistica/documentos/descarga/5d5c00efe6866641938689.pdf){target="_blank"}
+
+[ETI - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55){target="_blank"}
+
+:::
+
 
 ## Síntesis
 
@@ -134,4 +146,7 @@ Como puede observarse, hay una importante cantidad de segmentos (sombreados en r
 knitr::include_graphics('imagenes/figura2.4.jpg')
 ```
 
-Para ver un ejemplo de cómo el MINTURDEP utiliza los datos de estas encuestas para obtener resultados a nivel de provincia se pueden visitar las fichas de "[Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/info/estadisticas-de-turismo-por-provincias)".
+::: {.note}
+Para ver un ejemplo de cómo el MINTURDEP utiliza los datos de estas encuestas para obtener resultados a nivel de provincia se pueden visitar las fichas de [Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/info/estadisticas-de-turismo-por-provincias){target="_blank"}.
+
+:::
