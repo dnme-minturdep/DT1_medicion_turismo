@@ -4,14 +4,13 @@
 %
 \documentclass[
   openany]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
-  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -42,7 +41,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -103,13 +102,13 @@
 \makeatother
 \subtitle{Conceptos y Elementos Básicos para la Medición Provincial de los Turistas}
 \author{Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico}
-\date{19 de julio de 2021}
+\date{28 de July de 2021}
 
 \begin{document}
 \maketitle
 
 \includepdf[pages={1}, scale=1]{DT1Portada.pdf}
-\newpage
+
 
 \let\maketitle\oldmaketitle
 \maketitle
@@ -122,7 +121,7 @@
 \chapter*{Presentación}\label{presentaciuxf3n}}
 \addcontentsline{toc}{chapter}{Presentación}
 
-El presente documento, \textbf{Conceptos y Elementos Básicos para la Medición Provincial de los Turistas}, se enmarca en el proyecto de Armonización de las Estadísticas de Turismo en las Provincias de la \href{http://datos.yvera.gob.ar/}{Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+El presente documento, \textbf{Conceptos y Elementos Básicos para la Medición Provincial de los Turistas}, se enmarca en el proyecto de \href{https://armonizacion.yvera.tur.ar//}{Armonización de las Estadísticas de Turismo en las Provincias} de la \textbf{Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
 
 Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
 
@@ -227,7 +226,7 @@ El resultado de la combinación entre los criterios de distancia y frecuencia se
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.1} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.1} 
 
 }
 
@@ -252,7 +251,7 @@ La opción 1 considera que el entorno habitual, en su dimensión geográfica, es
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.2} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.2} 
 
 }
 
@@ -297,7 +296,7 @@ Las formas de turismo se pueden definir tanto desde el punto de vista de la clas
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.3} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.3} 
 
 }
 
@@ -362,7 +361,7 @@ La Figura \ref{fig:dificultad} presenta, de modo estilizado, aquellas caracterí
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.4} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.4} 
 
 }
 
@@ -410,7 +409,7 @@ Una persona inicia un viaje turístico el 10 de enero y lo finaliza el 20 de ene
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.5} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.5} 
 
 }
 
@@ -432,7 +431,7 @@ De este modo, tomando como referencia a una provincia, pueden identificarse cinc
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura1.6} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura1.6} 
 
 }
 
@@ -544,7 +543,7 @@ Llógicamente, a mayor cantidad de muestra, las estimaciones presentarán mayor 
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura2.1} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura2.1} 
 
 }
 
@@ -575,7 +574,7 @@ Cabe señalar que, como muestra la Figura \ref{fig:cobertura}, el peso de las lo
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura2.2} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura2.2} 
 
 }
 
@@ -633,7 +632,7 @@ La Figura \ref{fig:ent} presenta en forma comparativa las principales caracterí
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura2.3} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura2.3} 
 
 }
 
@@ -645,7 +644,7 @@ Como puede observarse, hay una importante cantidad de segmentos (sombreados en r
 
 \begin{figure}
 
-{\centering \includegraphics[width=0.8\linewidth]{imagenes/figura2.4} 
+{\centering \includegraphics[width=1\linewidth]{imagenes/figura2.4} 
 
 }
 
