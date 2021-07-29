@@ -1,7 +1,7 @@
 # **Estimaciones de flujo turístico** {#flujo-turistico}
 
 **¿Cómo obtener estimaciones comparables de flujo turístico por provincia?**
-
+Ahora sí va el comentario!!
 Este capítulo se estructura en dos secciones. La primera presenta las definiciones básicas que hacen a la medición estadística del turismo, a partir de las Recomendaciones Internacionales para Estadísticas de Turismo publicadas en 2008 por la Organización Internacional del Turismo. La segunda se centra en la complejidad de esta medición desde una óptica provincial y en recorrer la experiencia internacional acerca de cómo realizar estimaciones de flujo turístico a niveles subnacionales.
 
 ## Medición
