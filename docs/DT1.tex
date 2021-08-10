@@ -4,13 +4,14 @@
 %
 \documentclass[
   openany]{book}
-\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
+\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -41,7 +42,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs,array}
+\usepackage{longtable,booktabs}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -71,8 +72,7 @@
   %%% REFERENCIAS
         \usepackage{hyperref}
         % links del indice en negro; citas y URL en azul
-        \hypersetup{colorlinks = true, urlcolor={blue}, 
-        citecolor={blue}, linkcolor ={black}}
+        \hypersetup{colorlinks = true, urlcolor={blue}, citecolor={blue}, linkcolor ={blue}}
 \usepackage[spanish]{babel} % Idiomas en los que se escribe el documento. 
 \usepackage{booktabs}
 \usepackage{amsthm}
@@ -102,13 +102,13 @@
 \makeatother
 \subtitle{Conceptos y Elementos Básicos para la Medición Provincial de los Turistas}
 \author{Dirección Nacional de Mercados y Estadísticas - Subsecretaría de Desarrollo Estratégico}
-\date{28 de July de 2021}
+\date{09 de agosto de 2021}
 
 \begin{document}
 \maketitle
 
 \includepdf[pages={1}, scale=1]{DT1Portada.pdf}
-
+\newpage
 
 \let\maketitle\oldmaketitle
 \maketitle
@@ -133,7 +133,7 @@ Además de este, se encuentran disponibles una serie de documentos técnicos que
 \item
   \href{https://dnme-minturdep.github.io/DT4_perfiles/}{Documento Técnico \#4}: Propuestas Metodológicas para las Encuestas de Perfil del Visitante
 \item
-  Documento Técnico \#5: Medición de la contribución económica del turismo: actividad y empleo
+  \href{https://dnme-minturdep.github.io/DT5_actividad_empleo/}{Documento Técnico \#5}: Medición de la contribución económica del turismo: actividad y empleo
 \end{itemize}
 
 \hypertarget{documento-tuxe9cnico-nuxba1---resumen}{%
@@ -148,7 +148,7 @@ El capítulo \ref{encuestas-nacionales} se centra en describir las principales c
 \chapter{\texorpdfstring{\textbf{Estimaciones de flujo turístico}}{Estimaciones de flujo turístico}}\label{flujo-turistico}}
 
 \textbf{¿Cómo obtener estimaciones comparables de flujo turístico por provincia?}
-
+Ahora sí va el comentario!!
 Este capítulo se estructura en dos secciones. La primera presenta las definiciones básicas que hacen a la medición estadística del turismo, a partir de las Recomendaciones Internacionales para Estadísticas de Turismo publicadas en 2008 por la Organización Internacional del Turismo. La segunda se centra en la complejidad de esta medición desde una óptica provincial y en recorrer la experiencia internacional acerca de cómo realizar estimaciones de flujo turístico a niveles subnacionales.
 
 \hypertarget{mediciuxf3n}{%
