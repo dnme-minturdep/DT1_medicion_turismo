@@ -95,7 +95,8 @@ Asimismo, al analizar viajeros hospedados (o huéspedes), a partir de la informa
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
+[Informes de prensa en 
+Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
 
 [Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh){target="_blank"}
 
