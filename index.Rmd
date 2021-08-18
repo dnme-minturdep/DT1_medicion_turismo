@@ -18,11 +18,11 @@ El presente documento, **Conceptos y Elementos Básicos para la Medición Provin
 
 Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
 
--   [Documento Técnico \#2](https://dnme-minturdep.github.io/DT2_encuestas/): Propuestas metodológicas para las encuestas de ocupación en alojamientos turísticos
+-   [Documento Técnico \#2](https://dnme-minturdep.github.io/DT2_encuestas/){target="_blank"}: Propuestas metodológicas para las encuestas de ocupación en alojamientos turísticos
 
--   [Documento Técnico \#3](https://dnme-minturdep.github.io/DT3_registros_adminsitrativos/): Descripción, análisis y utilización de los Registros Administrativos para la medición del Turismo
+-   [Documento Técnico \#3](https://dnme-minturdep.github.io/DT3_registros_adminsitrativos/){target="_blank"}: Descripción, análisis y utilización de los Registros Administrativos para la medición del Turismo
 
--   [Documento Técnico \#4](https://dnme-minturdep.github.io/DT4_perfiles/): Propuestas Metodológicas para las Encuestas de Perfil del Visitante
+-   [Documento Técnico \#4](https://dnme-minturdep.github.io/DT4_perfiles/){target="_blank"}: Propuestas Metodológicas para las Encuestas de Perfil del Visitante
 
 -   [Documento Técnico \#5](https://dnme-minturdep.github.io/DT5_actividad_empleo/){target="_blank"}: Medición de la contribución económica del turismo: actividad y empleo
 
