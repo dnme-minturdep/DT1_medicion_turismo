@@ -134,13 +134,13 @@ Informes de prensa en [Yvera](https://www.yvera.tur.ar/estadistica/info/turismo-
 
 **Principales características y cobertura de las Encuestas Nacionales de Turismo**
 
-La Figura \@ref(fig:ent) presenta en forma comparativa las principales características de cada una de las tres Encuestas Nacionales de Turismo (ENT) que releva el MINTURDEP.
+La Figura 2.3 presenta en forma comparativa las principales características de cada una de las tres Encuestas Nacionales de Turismo (ENT) que releva el MINTURDEP.
 
 ```{r ent, echo=FALSE, fig.cap="Principales características de las Encuestas Nacionales de Turismo (ENT)" }
 knitr::include_graphics('imagenes/figura2.3.png')
 ```
 
-Asimismo, la Figura \@ref(fig:coberturaENT) da cuenta de cuáles son los segmentos de visitantes de los que se puede dar cuenta "teóricamente" (sin entrar en el análisis de la robustez de las estimaciones, más aún considerando niveles provinciales) a partir de estos estudios.
+Asimismo, la Figura 2.4 da cuenta de cuáles son los segmentos de visitantes de los que se puede dar cuenta "teóricamente" (sin entrar en el análisis de la robustez de las estimaciones, más aún considerando niveles provinciales) a partir de estos estudios.
 Como puede observarse, hay una importante cantidad de segmentos (sombreados en rojo) para los que ninguna fuente actualmente puede brindar información.
 
 ```{r coberturaENT, echo=FALSE, fig.cap="Cobertura teórica por parte de las ENT de los visitantes según origen y destino."}
