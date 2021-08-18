@@ -74,7 +74,7 @@ Además, permite distinguir la información de acuerdo al origen de los viajeros
 Este operativo releva 49 de las localidades con mayor oferta hotelera y para-hotelera del país, dentro de las siete regiones turísticas definidas por el MINTURDEP.
 Por tanto, su cobertura respecto a la contabilización del turismo se debe considerar desde el punto de vista del destino del viaje (independientemente del origen o lugar de residencia del viajero).
 
-Cabe señalar que, como muestra la Figura \@ref(fig:cobertura), el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
+Cabe señalar que, como muestra la Figura 2.2, el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
 
 **Figura 2.2. Cobertura de la EOH. Porcentaje aproximado que representan las plazas de las localidades incluidas en la EOH respecto al total de plazas hoteleras y parahoteleas provinciales. Datos a diciembre de 2019.**
 
