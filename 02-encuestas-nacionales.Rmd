@@ -75,7 +75,6 @@ Por tanto, su cobertura respecto a la contabilización del turismo se debe consi
 
 Cabe señalar que, como muestra la Figura 2.2, el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
 
-**Figura 2.2. Cobertura de la EOH. Porcentaje aproximado que representan las plazas de las localidades incluidas en la EOH respecto al total de plazas hoteleras y parahoteleas provinciales. Datos a diciembre de 2019.**
 
 ```{r cobertura, echo=FALSE, fig.cap="cobertura de la EOH" }
 knitr::include_graphics('imagenes/figura2.2.png')
