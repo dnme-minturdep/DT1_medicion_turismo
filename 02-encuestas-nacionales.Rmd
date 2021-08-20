@@ -8,7 +8,7 @@ editor_options:
 
 **Características y Alcance**
 
-Actualmente, el Ministerio de Turismo y Deportes de la Nación (MINTURDEP) cuenta con tres encuestas que le permiten mensurar y caracterizar el turismo, tanto a nivel nacional como a nivel regional[^encuestas-nacionales-1].Estos estudios son la Encuesta de Viajes y Turismo de los Hogares (**EVyTH**), la Encuesta de Ocupación Hotelera (**EOH**) y la Encuesta de Turismo Internacional (**ETI**).
+Actualmente, el Ministerio de Turismo y Deportes de la Nación (MINTURDEP) cuenta con tres encuestas que le permiten mensurar y caracterizar el turismo, tanto a nivel nacional como a nivel regional[^encuestas-nacionales-1]. Estos estudios son la Encuesta de Viajes y Turismo de los Hogares (**EVyTH**), la Encuesta de Ocupación Hotelera (**EOH**) y la Encuesta de Turismo Internacional (**ETI**).
 
 [^encuestas-nacionales-1]: Las regiones turísticas definidas en sus operativos estadísticos son las siguientes: Ciudad de Buenos Aires, Provincia de Buenos Aires, Córdoba, Litoral (Corrientes, Chaco, Entre Ríos, Formosa, Misiones y Santa Fe), Norte (Catamarca, Jujuy, Salta, Santiago Del Estero, Tucumán y La Rioja), Cuyo (Mendoza, San Juan, San Luis) y Patagonia (Chubut, La Pampa, Neuquén, Río Negro, Santa Cruz y Tierra Del Fuego).
 
