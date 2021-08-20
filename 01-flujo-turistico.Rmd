@@ -1,7 +1,7 @@
 # **Estimaciones de flujo turístico** {#flujo-turistico}
 
 **¿Cómo obtener estimaciones comparables de flujo turístico por provincia?**
-Ahora sí va el comentario!!
+
 Este capítulo se estructura en dos secciones. La primera presenta las definiciones básicas que hacen a la medición estadística del turismo, a partir de las Recomendaciones Internacionales para Estadísticas de Turismo publicadas en 2008 por la Organización Internacional del Turismo. La segunda se centra en la complejidad de esta medición desde una óptica provincial y en recorrer la experiencia internacional acerca de cómo realizar estimaciones de flujo turístico a niveles subnacionales.
 
 ## Medición
@@ -70,7 +70,7 @@ Dado que existen diferencias significativas entre los países en términos de de
 
 [^flujo-turistico-4]: En ciertos operativos puede resultar complejo y costoso dar cuenta del entorno habitual desde ambas dimensiones, por lo que se termina asumiendo, por defecto, sólo el criterio de residencia habitual, del cual resulta más sencillo dar cuenta. Ante este tipo de decisiones, lo que resulta imperioso es explicitarlas, planteando las diferencias con el concepto original.
 
-El resultado de la combinación entre los criterios de distancia y frecuencia se resume en la Figura \@ref(fig:entornoYviajes): sólo aquellos desplazamientos que se realicen a una distancia considerable y/o supongan el cruce de una frontera y cuya periodicidad no sea rutinaria serán considerados viajes turísticos y, por tanto, objeto de la estadística de turismo[^flujo-turistico-5].
+El resultado de la combinación entre los criterios de distancia y frecuencia se resume en la Figura 1.1: sólo aquellos desplazamientos que se realicen a una distancia considerable y/o supongan el cruce de una frontera y cuya periodicidad no sea rutinaria serán considerados viajes turísticos y, por tanto, objeto de la estadística de turismo[^flujo-turistico-5].
 
 [^flujo-turistico-5]: En este punto es preciso plantear una excepción. Una segunda vivienda turística, como una casa de veraneo o una quinta de descanso, constituye un destino turístico independientemente de la distancia y, aunque su uso sea hasta cierto punto frecuente. En otras palabras, no forma parte del entorno habitual. Así, cada hogar tiene una vivienda principal (que determina el lugar de residencia habitual de sus miembros), definida en cuanto tal por ser la vivienda en la que se pasa la mayor parte del tiempo. Sin embargo, muchos hogares disponen de segundas viviendas: los viajes a ellas son viajes turísticos, puesto que, por definición, las segundas viviendas no forman parte del entorno habitual de los miembros del hogar.
 
@@ -124,7 +124,7 @@ Si el concepto de entorno habitual no es tratado adecuadamente, se correrá el r
 
 **Óptica nacional**
 
-El turismo (sean visitantes --turistas o excursionistas-, pernoctes, gasto o cualquier otra unidad considerada) se clasifica de acuerdo al **origen y el destino** de los visitantes en **formas de turismo**. En este punto, es crucial destacar que el origen del visitante remite siempre al lugar de residencia y no a la nacionalidad, sea esta natural o adquirida.
+El turismo (sean visitantes -turistas o excursionistas-, pernoctes, gasto o cualquier otra unidad considerada) se clasifica de acuerdo al **origen y el destino** de los visitantes en **formas de turismo**. En este punto, es crucial destacar que el origen del visitante remite siempre al lugar de residencia y no a la nacionalidad, sea esta natural o adquirida.
 
 Las formas de turismo se pueden definir tanto desde el punto de vista de la clasificación del visitante, como desde la óptica de la unidad económica receptora. Habitualmente, se suele considerar al país como unidad económica, nivel al cual corresponden las siguientes formas de turismo:
 
@@ -190,7 +190,7 @@ Este ejemplo estilizado no debe hacer perder de vista que una estimación de est
 
 Además de las encuestas de ocupación de alojamientos y de las encuestas de caracterización de la demanda, los registros administrativos (vehículos en peajes, entradas vendidas para atractivos del destino, consultas en centros de información turística, etc.) constituyen una excelente fuente para realizar estimaciones de este tipo (por su robustez y, en general, bajo o nulo costo), siempre y cuando, nuevamente, reciban el tratamiento metodológico adecuado.
 
-La Figura \@ref(fig:dificultad) presenta, de modo estilizado, aquellas características que, en las distintas dimensiones del viaje, suponen diferentes niveles de dificultad para la captación de los visitantes[^flujo-turistico-11].
+La Figura 1.4 presenta, de modo estilizado, aquellas características que, en las distintas dimensiones del viaje, suponen diferentes niveles de dificultad para la captación de los visitantes[^flujo-turistico-11].
 
 [^flujo-turistico-11]: Estas apreciaciones no tratan sobre una cuestión marginal: según los datos de la EVyTH sobre turismo interno del año 2012, tres de cada cinco turistas se alojaron en viviendas de familiares o amigos o en segundas viviendas del hogar, dos de cada cinco turistas no viajaron por ocio y dos tercios de los turistas se desplazaron en un automóvil particular.
 
@@ -254,7 +254,7 @@ Lo expuesto permite deducir que, desde una óptica subnacional, es preciso conte
 
 La clasificación de la OMT parte de considerar como unidad mínima al nivel nacional, pero su lógica puede aplicarse a una provincia u otro nivel administrativo menor.
 
-De este modo, tomando como referencia a una provincia, pueden identificarse cinco formas básicas de turismo, tal como se observa en la Figura \@ref(fig:formasturismo)
+De este modo, tomando como referencia a una provincia, pueden identificarse cinco formas básicas de turismo, tal como se observa en la Figura 1.6
 
 ```{r formasturismo, echo=FALSE, fig.cap="Formas de turismo desde la óptica provincial" }
 knitr::include_graphics('imagenes/figura1.6.jpg')
@@ -311,7 +311,7 @@ Debido a esta forma de indagación por el destino, plantea tres unidades princip
 
 Esta clasificación permite la reconstrucción del flujo turístico por forma de turismo para cada provincia, cuya suma, lógicamente, es superior al total nacional (y lo mismo sucede al considerar la suma de las llegadas a localidades de una provincia respecto al total de llegadas a esa provincia).
 
-En base a lo expuesto, este modelo puede denominarse "**aguas abajo"**, dado que se realizan estimaciones subnacionales a partir de estudios nacionales, en contraste con un modelo "**aguas arriba"**, donde los flujos turísticos nacionales son reconstruidos a partir de los datos que aportan las entidades subnacionales.
+En base a lo expuesto, este modelo puede denominarse **"aguas abajo"**, dado que se realizan estimaciones subnacionales a partir de estudios nacionales, en contraste con un modelo **"aguas arriba"**, donde los flujos turísticos nacionales son reconstruidos a partir de los datos que aportan las entidades subnacionales.
 
 Como se verá en el Capítulo 2, Argentina cuenta hoy con este tipo de operativos nacionales necesarios para dar cuenta del flujo turístico. No obstante, estos estudios no cuentan con representatividad a niveles provinciales.
 
