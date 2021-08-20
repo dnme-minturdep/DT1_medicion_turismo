@@ -311,7 +311,7 @@ Debido a esta forma de indagación por el destino, plantea tres unidades princip
 
 Esta clasificación permite la reconstrucción del flujo turístico por forma de turismo para cada provincia, cuya suma, lógicamente, es superior al total nacional (y lo mismo sucede al considerar la suma de las llegadas a localidades de una provincia respecto al total de llegadas a esa provincia).
 
-En base a lo expuesto, este modelo puede denominarse "**aguas abajo"**, dado que se realizan estimaciones subnacionales a partir de estudios nacionales, en contraste con un modelo "**aguas arriba"**, donde los flujos turísticos nacionales son reconstruidos a partir de los datos que aportan las entidades subnacionales.
+En base a lo expuesto, este modelo puede denominarse **"aguas abajo"**, dado que se realizan estimaciones subnacionales a partir de estudios nacionales, en contraste con un modelo **"aguas arriba"**, donde los flujos turísticos nacionales son reconstruidos a partir de los datos que aportan las entidades subnacionales.
 
 Como se verá en el Capítulo 2, Argentina cuenta hoy con este tipo de operativos nacionales necesarios para dar cuenta del flujo turístico. No obstante, estos estudios no cuentan con representatividad a niveles provinciales.
 
