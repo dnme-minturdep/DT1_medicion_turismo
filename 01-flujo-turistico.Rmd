@@ -190,7 +190,7 @@ Este ejemplo estilizado no debe hacer perder de vista que una estimación de est
 
 Además de las encuestas de ocupación de alojamientos y de las encuestas de caracterización de la demanda, los registros administrativos (vehículos en peajes, entradas vendidas para atractivos del destino, consultas en centros de información turística, etc.) constituyen una excelente fuente para realizar estimaciones de este tipo (por su robustez y, en general, bajo o nulo costo), siempre y cuando, nuevamente, reciban el tratamiento metodológico adecuado.
 
-La Figura \@ref(fig:dificultad) presenta, de modo estilizado, aquellas características que, en las distintas dimensiones del viaje, suponen diferentes niveles de dificultad para la captación de los visitantes[^flujo-turistico-11].
+La Figura 1.4 presenta, de modo estilizado, aquellas características que, en las distintas dimensiones del viaje, suponen diferentes niveles de dificultad para la captación de los visitantes[^flujo-turistico-11].
 
 [^flujo-turistico-11]: Estas apreciaciones no tratan sobre una cuestión marginal: según los datos de la EVyTH sobre turismo interno del año 2012, tres de cada cinco turistas se alojaron en viviendas de familiares o amigos o en segundas viviendas del hogar, dos de cada cinco turistas no viajaron por ocio y dos tercios de los turistas se desplazaron en un automóvil particular.
 
