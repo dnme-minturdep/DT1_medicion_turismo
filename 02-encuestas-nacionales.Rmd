@@ -74,7 +74,7 @@ Además, permite distinguir la información de acuerdo al origen de los viajeros
 Este operativo releva 49 de las localidades con mayor oferta hotelera y para-hotelera del país, dentro de las siete regiones turísticas definidas por el MINTURDEP.
 Por tanto, su cobertura respecto a la contabilización del turismo se debe considerar desde el punto de vista del destino del viaje (independientemente del origen o lugar de residencia del viajero).
 
-Cabe señalar que, como muestra la Figura \@ref(fig:cobertura), el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
+Cabe señalar que, como muestra la Figura 2.2, el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
 
 **Figura 2.2. Cobertura de la EOH. Porcentaje aproximado que representan las plazas de las localidades incluidas en la EOH respecto al total de plazas hoteleras y parahoteleas provinciales. Datos a diciembre de 2019.**
 
@@ -95,7 +95,8 @@ Asimismo, al analizar viajeros hospedados (o huéspedes), a partir de la informa
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
+[Informes de prensa en 
+Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
 
 [Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh){target="_blank"}
 
@@ -133,13 +134,13 @@ Informes de prensa en [Yvera](https://www.yvera.tur.ar/estadistica/info/turismo-
 
 **Principales características y cobertura de las Encuestas Nacionales de Turismo**
 
-La Figura \@ref(fig:ent) presenta en forma comparativa las principales características de cada una de las tres Encuestas Nacionales de Turismo (ENT) que releva el MINTURDEP.
+La Figura 2.3 presenta en forma comparativa las principales características de cada una de las tres Encuestas Nacionales de Turismo (ENT) que releva el MINTURDEP.
 
 ```{r ent, echo=FALSE, fig.cap="Principales características de las Encuestas Nacionales de Turismo (ENT)" }
 knitr::include_graphics('imagenes/figura2.3.png')
 ```
 
-Asimismo, la Figura \@ref(fig:coberturaENT) da cuenta de cuáles son los segmentos de visitantes de los que se puede dar cuenta "teóricamente" (sin entrar en el análisis de la robustez de las estimaciones, más aún considerando niveles provinciales) a partir de estos estudios.
+Asimismo, la Figura 2.4 da cuenta de cuáles son los segmentos de visitantes de los que se puede dar cuenta "teóricamente" (sin entrar en el análisis de la robustez de las estimaciones, más aún considerando niveles provinciales) a partir de estos estudios.
 Como puede observarse, hay una importante cantidad de segmentos (sombreados en rojo) para los que ninguna fuente actualmente puede brindar información.
 
 ```{r coberturaENT, echo=FALSE, fig.cap="Cobertura teórica por parte de las ENT de los visitantes según origen y destino."}

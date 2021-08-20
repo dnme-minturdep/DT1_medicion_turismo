@@ -170,8 +170,6 @@ Un inconveniente adicional, y anterior, a este tipo de problemas, está dado por
 
 [^flujo-turistico-9]: Lógicamente, de acuerdo a lo expuesto anteriormente, no se consideran viajes turísticos aquellos viajes en los que la finalidad principal haya sido ser empleado por una unidad económica del lugar de destino, así que tampoco aquellos desplazamientos con una duración superior al año.
 
-    \
-
 Por citar un ejemplo extremo, desde el marco metodológico de la estadística de turismo, es tan visitante un australiano que se queda en las Cataratas del Iguazú durante un mes como un residente en Posadas que visita en el día a un pariente lejano que reside en L. N. Alem, ciudad del interior de la provincia de Misiones distante a 75 km. de la capital.
 
 Esta cuestión tiene varias aristas. En primer lugar, cuando se realizan operativos estadísticos basados en encuestas, se debe **evitar mencionar la palabra turismo** para no generar confusiones en los entrevistados.
