@@ -8,7 +8,7 @@ editor_options:
 
 **Características y Alcance**
 
-Actualmente, el Ministerio de Turismo y Deportes de la Nación (MINTURDEP) cuenta con tres encuestas que le permiten mensurar y caracterizar el turismo, tanto a nivel nacional como a nivel regional[^encuestas-nacionales-1].Estos estudios son la Encuesta de Viajes y Turismo de los Hogares (**EVyTH**), la Encuesta de Ocupación Hotelera (**EOH**) y la Encuesta de Turismo Internacional (**ETI**).
+Actualmente, el Ministerio de Turismo y Deportes de la Nación (MINTURDEP) cuenta con tres encuestas que le permiten mensurar y caracterizar el turismo, tanto a nivel nacional como a nivel regional[^encuestas-nacionales-1]. Estos estudios son la Encuesta de Viajes y Turismo de los Hogares (**EVyTH**), la Encuesta de Ocupación Hotelera (**EOH**) y la Encuesta de Turismo Internacional (**ETI**).
 
 [^encuestas-nacionales-1]: Las regiones turísticas definidas en sus operativos estadísticos son las siguientes: Ciudad de Buenos Aires, Provincia de Buenos Aires, Córdoba, Litoral (Corrientes, Chaco, Entre Ríos, Formosa, Misiones y Santa Fe), Norte (Catamarca, Jujuy, Salta, Santiago Del Estero, Tucumán y La Rioja), Cuyo (Mendoza, San Juan, San Luis) y Patagonia (Chubut, La Pampa, Neuquén, Río Negro, Santa Cruz y Tierra Del Fuego).
 
@@ -49,7 +49,6 @@ A nivel nacional, las estimaciones mensuales se realizan sobre una muestra de al
 Debido a que la encuesta fue diseñada para obtener resultados a niveles regionales, las estimaciones provinciales deben ser consideradas con cautela dado que la cantidad de hogares encuestados en los aglomerados de cada provincia varía sustancialmente.
 Llógicamente, a mayor cantidad de muestra, las estimaciones presentarán mayor fiabilidad (menor error estadístico, véase Figura 2.1).
 
-**Figura 2.1. Cantidad aproximada de casos muestrales (hogares) sobre las que se realizan las estimaciones mensuales y participación de él o los grandes aglomerados urbanos (GAU) considerados por la EVyTH sobre el total de la población de cada provincia.**
 
 ```{r cantidades, echo=FALSE, fig.cap="Cantidad y participación" }
 knitr::include_graphics('imagenes/figura2.1.png')
@@ -76,7 +75,6 @@ Por tanto, su cobertura respecto a la contabilización del turismo se debe consi
 
 Cabe señalar que, como muestra la Figura 2.2, el peso de las localidades incluidas en este estudio sobre el total del sector hotelero y parahotelero de cada provincia muestra importantes diferencias entre las mismas.
 
-**Figura 2.2. Cobertura de la EOH. Porcentaje aproximado que representan las plazas de las localidades incluidas en la EOH respecto al total de plazas hoteleras y parahoteleas provinciales. Datos a diciembre de 2019.**
 
 ```{r cobertura, echo=FALSE, fig.cap="cobertura de la EOH" }
 knitr::include_graphics('imagenes/figura2.2.png')
@@ -95,8 +93,7 @@ Asimismo, al analizar viajeros hospedados (o huéspedes), a partir de la informa
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en 
-Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
+[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
 
 [Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh){target="_blank"}
 
