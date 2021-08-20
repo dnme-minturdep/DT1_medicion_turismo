@@ -254,7 +254,7 @@ Lo expuesto permite deducir que, desde una óptica subnacional, es preciso conte
 
 La clasificación de la OMT parte de considerar como unidad mínima al nivel nacional, pero su lógica puede aplicarse a una provincia u otro nivel administrativo menor.
 
-De este modo, tomando como referencia a una provincia, pueden identificarse cinco formas básicas de turismo, tal como se observa en la Figura \@ref(fig:formasturismo)
+De este modo, tomando como referencia a una provincia, pueden identificarse cinco formas básicas de turismo, tal como se observa en la Figura 1.6
 
 ```{r formasturismo, echo=FALSE, fig.cap="Formas de turismo desde la óptica provincial" }
 knitr::include_graphics('imagenes/figura1.6.jpg')
