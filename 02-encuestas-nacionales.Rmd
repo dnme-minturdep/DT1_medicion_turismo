@@ -49,7 +49,6 @@ A nivel nacional, las estimaciones mensuales se realizan sobre una muestra de al
 Debido a que la encuesta fue diseñada para obtener resultados a niveles regionales, las estimaciones provinciales deben ser consideradas con cautela dado que la cantidad de hogares encuestados en los aglomerados de cada provincia varía sustancialmente.
 Llógicamente, a mayor cantidad de muestra, las estimaciones presentarán mayor fiabilidad (menor error estadístico, véase Figura 2.1).
 
-**Figura 2.1. Cantidad aproximada de casos muestrales (hogares) sobre las que se realizan las estimaciones mensuales y participación de él o los grandes aglomerados urbanos (GAU) considerados por la EVyTH sobre el total de la población de cada provincia.**
 
 ```{r cantidades, echo=FALSE, fig.cap="Cantidad y participación" }
 knitr::include_graphics('imagenes/figura2.1.png')
