@@ -1,7 +1,7 @@
 ---
 title: "Documento Técnico N°1: Medición del Turismo"
 subtitle: "Conceptos y Elementos Básicos para la Medición Provincial de los Turistas" 
-author: "Dirección Nacional de Mercados y Estadísticas -  Subsecretaría de Desarrollo Estratégico"
+author: "Dirección Nacional de Mercados y Estadística -  Subsecretaría de Desarrollo Estratégico"
 date: "`r format(Sys.Date(), format = '%d de %B de %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -18,7 +18,7 @@ El presente documento, **Conceptos y Elementos Básicos para la Medición Provin
 
 Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
 
--   [Documento Técnico \#2](https://dnme-minturdep.github.io/DT2_encuestas/){target="_blank"}: Propuestas metodológicas para las encuestas de ocupación en alojamientos turísticos
+-   [Documento Técnico \#2](https://dnme-minturdep.github.io/DT2_encuestas/){target="_blank"}: Propuestas Metodológicas para las encuestas de ocupación en alojamientos turísticos
 
 -   [Documento Técnico \#3](https://dnme-minturdep.github.io/DT3_registros_adminsitrativos/){target="_blank"}: Descripción, análisis y utilización de los Registros Administrativos para la medición del Turismo
 
