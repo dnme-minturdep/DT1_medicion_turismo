@@ -120,7 +120,7 @@ Para más información de los informes de resultados, series estadísticas y la 
 
 [Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/informe/info/turismo-internacional){target="_blank"}
 
-[Doc metodológico](https://www.yvera.tur.ar/estadistica/documentos/descarga/5d5c00efe6866641938689.pdf){target="_blank"}
+[Doc metodológico](https://www.yvera.tur.ar/estadistica/informe/documentos/descarga/5d5c00efe6866641938689.pdf){target="_blank"}
 
 [ETI - INDEC](https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55){target="_blank"}
 
