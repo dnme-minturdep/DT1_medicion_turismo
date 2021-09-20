@@ -59,7 +59,7 @@ Para más información de la EVyTH podes consultar los informes técnicos de res
 
 [Data abierta](http://datos.yvera.gob.ar/dataset/encuesta-viajes-turismo-hogares-evyth){target="_blank"}
 
-[Informes técnicos](https://www.yvera.tur.ar/estadistica/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth){target="_blank"}
+[Informes técnicos](https://www.yvera.tur.ar/estadistica/informe/info/encuesta-de-viajes-y-turismo-de-los-hogares-evyth){target="_blank"}
 
 [Encuesta Permanente a Hogares del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-OperacionesEstadisticas){target="_blank"}
 :::
@@ -93,7 +93,7 @@ Asimismo, al analizar viajeros hospedados (o huéspedes), a partir de la informa
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
+[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/informe/info/encuesta-de-ocupacion-hotelera-eoh){target="_blank"}
 
 [Data Abierta](http://datos.yvera.tur.ar/dataset/encuesta-ocupacion-hotelera-parahotelera-eoh){target="_blank"}
 
@@ -118,7 +118,7 @@ Por esta razón, los datos históricos, en la mayoría de los casos, no se encue
 ::: {.note}
 Para más información de los informes de resultados, series estadísticas y la metodología, vistá:
 
-[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/info/turismo-internacional){target="_blank"}
+[Informes de prensa en Yvera](https://www.yvera.tur.ar/estadistica/informe/info/turismo-internacional){target="_blank"}
 
 [Doc metodológico](https://www.yvera.tur.ar/estadistica/documentos/descarga/5d5c00efe6866641938689.pdf){target="_blank"}
 
@@ -145,6 +145,6 @@ knitr::include_graphics('imagenes/figura2.4.jpg')
 ```
 
 ::: {.note}
-Para ver un ejemplo de cómo el MINTURDEP utiliza los datos de estas encuestas para obtener resultados a nivel de provincia se pueden visitar las fichas de [Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/info/estadisticas-de-turismo-por-provincias){target="_blank"}.
+Para ver un ejemplo de cómo el MINTURDEP utiliza los datos de estas encuestas para obtener resultados a nivel de provincia se pueden visitar las fichas de [Estadísticas de turismo por provincia](https://www.yvera.tur.ar/estadistica/informe/info/estadisticas-de-turismo-por-provincias){target="_blank"}.
 
 :::
